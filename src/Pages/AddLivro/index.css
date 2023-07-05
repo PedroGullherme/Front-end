@@ -1,0 +1,63 @@
+form {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+  }
+  
+  li h3 {
+    margin: 0;
+  }
+  
+  li p {
+    margin: 0;
+  }
+  
+.imgCapa{
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  li button {
+    margin-right: 10px;
+  }
+  
+.titulo {
+    margin-right: 10px;
+}
+
+.autor {
+  margin-right: 10px;
+}
+
+.genero {
+  margin-right: 10px;
+}
+
+.imagemCapa {
+  margin-right: 10px;
+}
+
+.inputTitulo {
+  margin-right: 10px;
+}
+
+.inputAutor {
+  margin-right: 10px;
+}
+
+.inputGenero {
+  margin-right: 10px;
+}
+
+.inputImagemCapa {
+  margin-right: 10px;
+}
+
